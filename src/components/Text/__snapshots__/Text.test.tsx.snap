@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text bold renders correctly 1`] = `
+<p
+  className="sc-bczRLJ bzqUFB"
+/>
+`;
+
+exports[`Text light renders correctly 1`] = `
+<p
+  className="sc-gsnTZi dlQhoj"
+/>
+`;
+
+exports[`Text medium renders correctly 1`] = `
+<p
+  className="sc-dkzDqf yLiim"
+/>
+`;
+
+exports[`Text regular renders correctly 1`] = `
+<p
+  className="sc-hKMtZM gJxdtA"
+/>
+`;

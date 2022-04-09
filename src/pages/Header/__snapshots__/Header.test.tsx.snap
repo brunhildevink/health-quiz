@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<div
+  className="sc-bczRLJ kIOTIl"
+>
+  <header
+    className="sc-dkzDqf heTzSB"
+  >
+    <img
+      alt="logo"
+      className="sc-hKMtZM ddOdcB"
+      src="logo.svg"
+    />
+    <p
+      className="sc-iqcoie cgQLPp"
+    >
+      Edit 
+      <code
+        className="sc-gsnTZi gTCnJi"
+      >
+        src/App.tsx
+      </code>
+       and save to reload.
+    </p>
+  </header>
+</div>
+`;

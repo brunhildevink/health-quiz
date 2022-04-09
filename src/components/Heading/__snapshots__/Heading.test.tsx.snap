@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading one renders correctly 1`] = `
+<h1
+  className="sc-bczRLJ iluBtY"
+/>
+`;
+
+exports[`Heading three renders correctly 1`] = `
+<h3
+  className="sc-dkzDqf dsgIKT"
+/>
+`;
+
+exports[`Heading three renders correctly 2`] = `
+<h4
+  className="sc-hKMtZM gkfzAF"
+/>
+`;
+
+exports[`Heading two renders correctly 1`] = `
+<h2
+  className="sc-gsnTZi culZzQ"
+/>
+`;
