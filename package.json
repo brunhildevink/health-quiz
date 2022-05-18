@@ -12,6 +12,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
+    "request-promise": "^4.2.6",
     "styled-components": "^5.3.5",
     "typescript": "^4.6.3",
     "web-vitals": "^2.1.4"
@@ -58,6 +59,7 @@
   "devDependencies": {
     "@testing-library/react": "^12.1.4",
     "@types/react-test-renderer": "^17.0.1",
+    "@types/request-promise": "^4.1.48",
     "@types/styled-components": "^5.1.24",
     "@typescript-eslint/eslint-plugin": "^5.17.0",
     "@typescript-eslint/parser": "^5.17.0",
